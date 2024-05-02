@@ -1,5 +1,9 @@
-## Lazication
+# Lazication
+## 소개 
+![image](.image1)
+![image](.image2)
 
+![image](.image3)
 ## 실행 방법 
 1. conda env 생성 
 ```

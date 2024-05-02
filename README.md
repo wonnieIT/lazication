@@ -1,9 +1,9 @@
 # Lazication
 ## 소개 
-![image](.image1)
-![image](.image2)
+![image](img1.png)
+![image](img2.png)
 
-![image](.image3)
+![image](img3.png)
 ## 실행 방법 
 1. conda env 생성 
 ```
